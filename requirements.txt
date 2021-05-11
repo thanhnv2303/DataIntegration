@@ -1,0 +1,4 @@
+pandas==1.1.5
+py-stringsimjoin==0.3.2
+py-stringmatching==0.4.2
+py-entitymatching==0.4.0

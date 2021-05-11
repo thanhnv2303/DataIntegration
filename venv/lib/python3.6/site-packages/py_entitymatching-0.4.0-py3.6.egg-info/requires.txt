@@ -1,0 +1,10 @@
+requests
+ipython>=5.6
+matplotlib>=2.2.4
+PyPrind
+py-stringsimjoin>=0.3.0
+cloudpickle>=0.2.1
+pyparsing>=2.1.4
+scikit-learn>=0.22
+scipy
+numpy
